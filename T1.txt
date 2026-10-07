@@ -1,4 +1,3 @@
-Helo
-Im here to
-No need
-ok add
+Git is in updation
+This is the current working directory
+
